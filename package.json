@@ -1,13 +1,13 @@
 {
   "name": "passwordless-tokenstore-test",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Provides a generic test suite for Passwordless TokenStore implementations",
   "main": "index.js",
   "dependencies": {
-    "chai": "^3.5.0",
-    "chance": "^1.0.1",
-    "mocha": "^2.4.5",
-    "node-uuid": "^1.4.7"
+    "chai": "^4.2.0",
+    "chance": "^1.0.18",
+    "mocha": "^5.2.0",
+    "uuid": "^3.3.2"
   },
   "author": "Florian Heinemann <florian.heinemann@gmail.com> (http://twitter.com/thesumofall)",
   "license": "MIT",

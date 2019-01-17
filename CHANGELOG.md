@@ -1,3 +1,6 @@
+# 0.1.5 (2019-01-17)
+- UPDATED all dependencies
+
 # 0.1.4		2016-Mar-25
 - ADD defines behaviour if originUrl is passed as null
 
